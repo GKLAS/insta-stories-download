@@ -1,0 +1,18 @@
+.bottombtn {
+    background: #333;
+    color: #ddd;
+    padding: 16px;
+    z-index: 1;
+    position: fixed;
+    height: 48px;
+    width: 48px;
+    cursor: pointer;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
